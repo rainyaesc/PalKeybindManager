@@ -1,0 +1,5 @@
+PalKeybindManager 0.4.0-personal-cn-panel
+Target: Palworld Steam v1.0.1 (Build ID 24181527)
+UE4SS: experimental-palworld-6 / v3.0.1 Beta #0 (c838a8ac)
+Scope: keyboard and mouse Action mappings plus editable keyboard Axis mappings
+Safety: edit only while game is closed; apply once during title-stage startup; no live panel/rebuild
